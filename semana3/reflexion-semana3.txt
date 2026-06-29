@@ -1,0 +1,8 @@
+Git es una herramienta muy importante porque permite registrar cada cambio realizado en un proyecto de software.
+Gracias al control de versiones es posible conocer la evolución del trabajo.
+También facilita corregir errores y recuperar versiones anteriores cuando es necesario.
+Además, ayuda a que varias personas trabajen en el mismo proyecto sin perder información.
+Cada commit deja evidencia de las modificaciones realizadas.
+Esto mejora la organización y la trazabilidad del desarrollo.
+Git también facilita compartir los avances mediante GitHub.
+Por estas razones, mantener un registro de cambios es fundamental para desarrollar proyectos de manera ordenada y colaborativa.
