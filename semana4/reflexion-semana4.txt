@@ -1,0 +1,8 @@
+Node.js es una tecnología abierta que permite desarrollar aplicaciones útiles para diferentes comunidades.
+Gracias a este tipo de herramientas, cualquier persona puede crear soluciones adaptadas a sus necesidades.
+Las iniciativas ciudadanas pueden desarrollar plataformas para compartir información y prestar servicios.
+Además, el uso de tecnologías abiertas reduce costos y facilita el acceso al conocimiento.
+También promueve la colaboración entre desarrolladores y organizaciones.
+Las comunidades pueden mejorar sus procesos mediante herramientas propias.
+Esto fortalece la participación ciudadana y la innovación tecnológica.
+Por estas razones, aprender Node.js representa una oportunidad para crear soluciones que beneficien a la sociedad.
